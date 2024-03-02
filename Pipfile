@@ -7,9 +7,11 @@ name = "pypi"
 numpy = "*"
 pandas = "*"
 seaborn = "*"
-matplotlib = "*"p
+matplotlib = "*"
 scipy = "*"
 scikit-learn = "*"
+fuzzywuzzy = "*"
+pyarrow = "*"
 
 [dev-packages]
 ipykernel = "*"
