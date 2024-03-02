@@ -7,7 +7,7 @@ name = "pypi"
 numpy = "*"
 pandas = "*"
 seaborn = "*"
-matplotlib = "*"
+matplotlib = "*"p
 scipy = "*"
 scikit-learn = "*"
 
